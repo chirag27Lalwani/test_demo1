@@ -36,6 +36,7 @@ def isArmstrong(x):
 
 # Driver code
 x = 153
-print(isArmstrong(x))
+#print(isArmstrong(x))
 x = 1253
-print(isArmstrong(x))
+#print(isArmstrong(x))
+
